@@ -12,4 +12,4 @@ from
 nhl
 where
 location = 'Los Angeles'
-
+i dont know how to do this
