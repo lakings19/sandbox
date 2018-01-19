@@ -5,3 +5,11 @@ echo or should I remove
 
 more lines to add
 just checking to see if this works
+
+select
+*
+from
+nhl
+where
+location = 'Los Angeles'
+
